@@ -1,0 +1,31 @@
+h1 {
+    font-family:'Lilita One', cursive;
+    text-align:center;
+    color:white;
+}
+h2 {
+    font-family:'Lilita One', cursive;
+    color:black;
+}
+img {
+    width:300px;
+    float:right;
+    border:dotted;
+    background:black;
+}
+body {
+    background:url("https://i1.wp.com/fortniteskins.net/wp-content/uploads/2018/10/skull-ranger-outfit.png?fit=680%2C644&ssl=1");
+    width:650px;
+}
+ul {
+    color:white;
+    background:black;
+    
+}
+ul {
+    font-family: 'Bungee', cursive;
+}
+p {
+     font-family:'Lilita One', cursive;
+     color:white;
+}
